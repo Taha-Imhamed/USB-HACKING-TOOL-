@@ -1,6 +1,6 @@
 🚨 README Disclaimer 🚨
 ⚠️ Important Notice
-Welcome to the [Your Project Name] repository! Here’s what you need to know:
+Welcome to the [USB HACKING TOOLS] repository! Here’s what you need to know:
 
 🛡️ Ethical Use Only
 This software is meant for educational and ethical use. By using these scripts, you agree to follow these important guidelines:
